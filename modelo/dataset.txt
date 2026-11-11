@@ -1,0 +1,3015 @@
+<Usuario>
+que es esp32
+
+<Asistente>
+el esp32 es un microcontrolador de 32 bits de espressif con wifi y bluetooth integrados.
+
+<Fin>
+
+<Usuario>
+explica esp32
+
+<Asistente>
+el esp32 es un microcontrolador de 32 bits de espressif con wifi y bluetooth integrados.
+
+<Fin>
+
+<Usuario>
+podrias explicar esp32
+
+<Asistente>
+el esp32 es un microcontrolador de 32 bits de espressif con wifi y bluetooth integrados.
+
+<Fin>
+
+<Usuario>
+para que sirve esp32
+
+<Asistente>
+el esp32 es un microcontrolador de 32 bits de espressif con wifi y bluetooth integrados.
+
+<Fin>
+
+<Usuario>
+como funciona esp32
+
+<Asistente>
+el esp32 es un microcontrolador de 32 bits de espressif con wifi y bluetooth integrados.
+
+<Fin>
+
+<Usuario>
+define esp32
+
+<Asistente>
+el esp32 es un microcontrolador de 32 bits de espressif con wifi y bluetooth integrados.
+
+<Fin>
+
+<Usuario>
+que hace esp32
+
+<Asistente>
+el esp32 es un microcontrolador de 32 bits de espressif con wifi y bluetooth integrados.
+
+<Fin>
+
+<Usuario>
+uso de esp32
+
+<Asistente>
+el esp32 es un microcontrolador de 32 bits de espressif con wifi y bluetooth integrados.
+
+<Fin>
+
+<Usuario>
+concepto de esp32
+
+<Asistente>
+el esp32 es un microcontrolador de 32 bits de espressif con wifi y bluetooth integrados.
+
+<Fin>
+
+<Usuario>
+informacion sobre esp32
+
+<Asistente>
+el esp32 es un microcontrolador de 32 bits de espressif con wifi y bluetooth integrados.
+
+<Fin>
+
+<Usuario>
+hablame de esp32
+
+<Asistente>
+el esp32 es un microcontrolador de 32 bits de espressif con wifi y bluetooth integrados.
+
+<Fin>
+
+<Usuario>
+para que se usa esp32
+
+<Asistente>
+el esp32 es un microcontrolador de 32 bits de espressif con wifi y bluetooth integrados.
+
+<Fin>
+
+<Usuario>
+que es mqtt
+
+<Asistente>
+mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot.
+
+<Fin>
+
+<Usuario>
+explica mqtt
+
+<Asistente>
+mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot.
+
+<Fin>
+
+<Usuario>
+podrias explicar mqtt
+
+<Asistente>
+mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot.
+
+<Fin>
+
+<Usuario>
+para que sirve mqtt
+
+<Asistente>
+mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot.
+
+<Fin>
+
+<Usuario>
+como funciona mqtt
+
+<Asistente>
+mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot.
+
+<Fin>
+
+<Usuario>
+define mqtt
+
+<Asistente>
+mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot.
+
+<Fin>
+
+<Usuario>
+que hace mqtt
+
+<Asistente>
+mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot.
+
+<Fin>
+
+<Usuario>
+uso de mqtt
+
+<Asistente>
+mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot.
+
+<Fin>
+
+<Usuario>
+concepto de mqtt
+
+<Asistente>
+mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot.
+
+<Fin>
+
+<Usuario>
+informacion sobre mqtt
+
+<Asistente>
+mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot.
+
+<Fin>
+
+<Usuario>
+hablame de mqtt
+
+<Asistente>
+mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot.
+
+<Fin>
+
+<Usuario>
+para que se usa mqtt
+
+<Asistente>
+mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot.
+
+<Fin>
+
+<Usuario>
+que es wifi
+
+<Asistente>
+wifi permite conectar el esp32 a una red inalambrica de 2.4 ghz.
+
+<Fin>
+
+<Usuario>
+explica wifi
+
+<Asistente>
+wifi permite conectar el esp32 a una red inalambrica de 2.4 ghz.
+
+<Fin>
+
+<Usuario>
+podrias explicar wifi
+
+<Asistente>
+wifi permite conectar el esp32 a una red inalambrica de 2.4 ghz.
+
+<Fin>
+
+<Usuario>
+para que sirve wifi
+
+<Asistente>
+wifi permite conectar el esp32 a una red inalambrica de 2.4 ghz.
+
+<Fin>
+
+<Usuario>
+como funciona wifi
+
+<Asistente>
+wifi permite conectar el esp32 a una red inalambrica de 2.4 ghz.
+
+<Fin>
+
+<Usuario>
+define wifi
+
+<Asistente>
+wifi permite conectar el esp32 a una red inalambrica de 2.4 ghz.
+
+<Fin>
+
+<Usuario>
+que hace wifi
+
+<Asistente>
+wifi permite conectar el esp32 a una red inalambrica de 2.4 ghz.
+
+<Fin>
+
+<Usuario>
+uso de wifi
+
+<Asistente>
+wifi permite conectar el esp32 a una red inalambrica de 2.4 ghz.
+
+<Fin>
+
+<Usuario>
+concepto de wifi
+
+<Asistente>
+wifi permite conectar el esp32 a una red inalambrica de 2.4 ghz.
+
+<Fin>
+
+<Usuario>
+informacion sobre wifi
+
+<Asistente>
+wifi permite conectar el esp32 a una red inalambrica de 2.4 ghz.
+
+<Fin>
+
+<Usuario>
+hablame de wifi
+
+<Asistente>
+wifi permite conectar el esp32 a una red inalambrica de 2.4 ghz.
+
+<Fin>
+
+<Usuario>
+para que se usa wifi
+
+<Asistente>
+wifi permite conectar el esp32 a una red inalambrica de 2.4 ghz.
+
+<Fin>
+
+<Usuario>
+que es bluetooth
+
+<Asistente>
+bluetooth permite comunicacion inalambrica de corto alcance.
+
+<Fin>
+
+<Usuario>
+explica bluetooth
+
+<Asistente>
+bluetooth permite comunicacion inalambrica de corto alcance.
+
+<Fin>
+
+<Usuario>
+podrias explicar bluetooth
+
+<Asistente>
+bluetooth permite comunicacion inalambrica de corto alcance.
+
+<Fin>
+
+<Usuario>
+para que sirve bluetooth
+
+<Asistente>
+bluetooth permite comunicacion inalambrica de corto alcance.
+
+<Fin>
+
+<Usuario>
+como funciona bluetooth
+
+<Asistente>
+bluetooth permite comunicacion inalambrica de corto alcance.
+
+<Fin>
+
+<Usuario>
+define bluetooth
+
+<Asistente>
+bluetooth permite comunicacion inalambrica de corto alcance.
+
+<Fin>
+
+<Usuario>
+que hace bluetooth
+
+<Asistente>
+bluetooth permite comunicacion inalambrica de corto alcance.
+
+<Fin>
+
+<Usuario>
+uso de bluetooth
+
+<Asistente>
+bluetooth permite comunicacion inalambrica de corto alcance.
+
+<Fin>
+
+<Usuario>
+concepto de bluetooth
+
+<Asistente>
+bluetooth permite comunicacion inalambrica de corto alcance.
+
+<Fin>
+
+<Usuario>
+informacion sobre bluetooth
+
+<Asistente>
+bluetooth permite comunicacion inalambrica de corto alcance.
+
+<Fin>
+
+<Usuario>
+hablame de bluetooth
+
+<Asistente>
+bluetooth permite comunicacion inalambrica de corto alcance.
+
+<Fin>
+
+<Usuario>
+para que se usa bluetooth
+
+<Asistente>
+bluetooth permite comunicacion inalambrica de corto alcance.
+
+<Fin>
+
+<Usuario>
+que es gpio
+
+<Asistente>
+un gpio es un pin configurable como entrada o salida digital.
+
+<Fin>
+
+<Usuario>
+explica gpio
+
+<Asistente>
+un gpio es un pin configurable como entrada o salida digital.
+
+<Fin>
+
+<Usuario>
+podrias explicar gpio
+
+<Asistente>
+un gpio es un pin configurable como entrada o salida digital.
+
+<Fin>
+
+<Usuario>
+para que sirve gpio
+
+<Asistente>
+un gpio es un pin configurable como entrada o salida digital.
+
+<Fin>
+
+<Usuario>
+como funciona gpio
+
+<Asistente>
+un gpio es un pin configurable como entrada o salida digital.
+
+<Fin>
+
+<Usuario>
+define gpio
+
+<Asistente>
+un gpio es un pin configurable como entrada o salida digital.
+
+<Fin>
+
+<Usuario>
+que hace gpio
+
+<Asistente>
+un gpio es un pin configurable como entrada o salida digital.
+
+<Fin>
+
+<Usuario>
+uso de gpio
+
+<Asistente>
+un gpio es un pin configurable como entrada o salida digital.
+
+<Fin>
+
+<Usuario>
+concepto de gpio
+
+<Asistente>
+un gpio es un pin configurable como entrada o salida digital.
+
+<Fin>
+
+<Usuario>
+informacion sobre gpio
+
+<Asistente>
+un gpio es un pin configurable como entrada o salida digital.
+
+<Fin>
+
+<Usuario>
+hablame de gpio
+
+<Asistente>
+un gpio es un pin configurable como entrada o salida digital.
+
+<Fin>
+
+<Usuario>
+para que se usa gpio
+
+<Asistente>
+un gpio es un pin configurable como entrada o salida digital.
+
+<Fin>
+
+<Usuario>
+que es adc
+
+<Asistente>
+adc convierte una tension analogica en un valor digital.
+
+<Fin>
+
+<Usuario>
+explica adc
+
+<Asistente>
+adc convierte una tension analogica en un valor digital.
+
+<Fin>
+
+<Usuario>
+podrias explicar adc
+
+<Asistente>
+adc convierte una tension analogica en un valor digital.
+
+<Fin>
+
+<Usuario>
+para que sirve adc
+
+<Asistente>
+adc convierte una tension analogica en un valor digital.
+
+<Fin>
+
+<Usuario>
+como funciona adc
+
+<Asistente>
+adc convierte una tension analogica en un valor digital.
+
+<Fin>
+
+<Usuario>
+define adc
+
+<Asistente>
+adc convierte una tension analogica en un valor digital.
+
+<Fin>
+
+<Usuario>
+que hace adc
+
+<Asistente>
+adc convierte una tension analogica en un valor digital.
+
+<Fin>
+
+<Usuario>
+uso de adc
+
+<Asistente>
+adc convierte una tension analogica en un valor digital.
+
+<Fin>
+
+<Usuario>
+concepto de adc
+
+<Asistente>
+adc convierte una tension analogica en un valor digital.
+
+<Fin>
+
+<Usuario>
+informacion sobre adc
+
+<Asistente>
+adc convierte una tension analogica en un valor digital.
+
+<Fin>
+
+<Usuario>
+hablame de adc
+
+<Asistente>
+adc convierte una tension analogica en un valor digital.
+
+<Fin>
+
+<Usuario>
+para que se usa adc
+
+<Asistente>
+adc convierte una tension analogica en un valor digital.
+
+<Fin>
+
+<Usuario>
+que es pwm
+
+<Asistente>
+pwm permite controlar brillo de leds o velocidad de motores.
+
+<Fin>
+
+<Usuario>
+explica pwm
+
+<Asistente>
+pwm permite controlar brillo de leds o velocidad de motores.
+
+<Fin>
+
+<Usuario>
+podrias explicar pwm
+
+<Asistente>
+pwm permite controlar brillo de leds o velocidad de motores.
+
+<Fin>
+
+<Usuario>
+para que sirve pwm
+
+<Asistente>
+pwm permite controlar brillo de leds o velocidad de motores.
+
+<Fin>
+
+<Usuario>
+como funciona pwm
+
+<Asistente>
+pwm permite controlar brillo de leds o velocidad de motores.
+
+<Fin>
+
+<Usuario>
+define pwm
+
+<Asistente>
+pwm permite controlar brillo de leds o velocidad de motores.
+
+<Fin>
+
+<Usuario>
+que hace pwm
+
+<Asistente>
+pwm permite controlar brillo de leds o velocidad de motores.
+
+<Fin>
+
+<Usuario>
+uso de pwm
+
+<Asistente>
+pwm permite controlar brillo de leds o velocidad de motores.
+
+<Fin>
+
+<Usuario>
+concepto de pwm
+
+<Asistente>
+pwm permite controlar brillo de leds o velocidad de motores.
+
+<Fin>
+
+<Usuario>
+informacion sobre pwm
+
+<Asistente>
+pwm permite controlar brillo de leds o velocidad de motores.
+
+<Fin>
+
+<Usuario>
+hablame de pwm
+
+<Asistente>
+pwm permite controlar brillo de leds o velocidad de motores.
+
+<Fin>
+
+<Usuario>
+para que se usa pwm
+
+<Asistente>
+pwm permite controlar brillo de leds o velocidad de motores.
+
+<Fin>
+
+<Usuario>
+que es uart
+
+<Asistente>
+uart es una interfaz serie basada en tx y rx.
+
+<Fin>
+
+<Usuario>
+explica uart
+
+<Asistente>
+uart es una interfaz serie basada en tx y rx.
+
+<Fin>
+
+<Usuario>
+podrias explicar uart
+
+<Asistente>
+uart es una interfaz serie basada en tx y rx.
+
+<Fin>
+
+<Usuario>
+para que sirve uart
+
+<Asistente>
+uart es una interfaz serie basada en tx y rx.
+
+<Fin>
+
+<Usuario>
+como funciona uart
+
+<Asistente>
+uart es una interfaz serie basada en tx y rx.
+
+<Fin>
+
+<Usuario>
+define uart
+
+<Asistente>
+uart es una interfaz serie basada en tx y rx.
+
+<Fin>
+
+<Usuario>
+que hace uart
+
+<Asistente>
+uart es una interfaz serie basada en tx y rx.
+
+<Fin>
+
+<Usuario>
+uso de uart
+
+<Asistente>
+uart es una interfaz serie basada en tx y rx.
+
+<Fin>
+
+<Usuario>
+concepto de uart
+
+<Asistente>
+uart es una interfaz serie basada en tx y rx.
+
+<Fin>
+
+<Usuario>
+informacion sobre uart
+
+<Asistente>
+uart es una interfaz serie basada en tx y rx.
+
+<Fin>
+
+<Usuario>
+hablame de uart
+
+<Asistente>
+uart es una interfaz serie basada en tx y rx.
+
+<Fin>
+
+<Usuario>
+para que se usa uart
+
+<Asistente>
+uart es una interfaz serie basada en tx y rx.
+
+<Fin>
+
+<Usuario>
+que es i2c
+
+<Asistente>
+i2c es un protocolo de comunicacion con lineas sda y scl.
+
+<Fin>
+
+<Usuario>
+explica i2c
+
+<Asistente>
+i2c es un protocolo de comunicacion con lineas sda y scl.
+
+<Fin>
+
+<Usuario>
+podrias explicar i2c
+
+<Asistente>
+i2c es un protocolo de comunicacion con lineas sda y scl.
+
+<Fin>
+
+<Usuario>
+para que sirve i2c
+
+<Asistente>
+i2c es un protocolo de comunicacion con lineas sda y scl.
+
+<Fin>
+
+<Usuario>
+como funciona i2c
+
+<Asistente>
+i2c es un protocolo de comunicacion con lineas sda y scl.
+
+<Fin>
+
+<Usuario>
+define i2c
+
+<Asistente>
+i2c es un protocolo de comunicacion con lineas sda y scl.
+
+<Fin>
+
+<Usuario>
+que hace i2c
+
+<Asistente>
+i2c es un protocolo de comunicacion con lineas sda y scl.
+
+<Fin>
+
+<Usuario>
+uso de i2c
+
+<Asistente>
+i2c es un protocolo de comunicacion con lineas sda y scl.
+
+<Fin>
+
+<Usuario>
+concepto de i2c
+
+<Asistente>
+i2c es un protocolo de comunicacion con lineas sda y scl.
+
+<Fin>
+
+<Usuario>
+informacion sobre i2c
+
+<Asistente>
+i2c es un protocolo de comunicacion con lineas sda y scl.
+
+<Fin>
+
+<Usuario>
+hablame de i2c
+
+<Asistente>
+i2c es un protocolo de comunicacion con lineas sda y scl.
+
+<Fin>
+
+<Usuario>
+para que se usa i2c
+
+<Asistente>
+i2c es un protocolo de comunicacion con lineas sda y scl.
+
+<Fin>
+
+<Usuario>
+que es spi
+
+<Asistente>
+spi es un protocolo rapido para displays memorias y sensores.
+
+<Fin>
+
+<Usuario>
+explica spi
+
+<Asistente>
+spi es un protocolo rapido para displays memorias y sensores.
+
+<Fin>
+
+<Usuario>
+podrias explicar spi
+
+<Asistente>
+spi es un protocolo rapido para displays memorias y sensores.
+
+<Fin>
+
+<Usuario>
+para que sirve spi
+
+<Asistente>
+spi es un protocolo rapido para displays memorias y sensores.
+
+<Fin>
+
+<Usuario>
+como funciona spi
+
+<Asistente>
+spi es un protocolo rapido para displays memorias y sensores.
+
+<Fin>
+
+<Usuario>
+define spi
+
+<Asistente>
+spi es un protocolo rapido para displays memorias y sensores.
+
+<Fin>
+
+<Usuario>
+que hace spi
+
+<Asistente>
+spi es un protocolo rapido para displays memorias y sensores.
+
+<Fin>
+
+<Usuario>
+uso de spi
+
+<Asistente>
+spi es un protocolo rapido para displays memorias y sensores.
+
+<Fin>
+
+<Usuario>
+concepto de spi
+
+<Asistente>
+spi es un protocolo rapido para displays memorias y sensores.
+
+<Fin>
+
+<Usuario>
+informacion sobre spi
+
+<Asistente>
+spi es un protocolo rapido para displays memorias y sensores.
+
+<Fin>
+
+<Usuario>
+hablame de spi
+
+<Asistente>
+spi es un protocolo rapido para displays memorias y sensores.
+
+<Fin>
+
+<Usuario>
+para que se usa spi
+
+<Asistente>
+spi es un protocolo rapido para displays memorias y sensores.
+
+<Fin>
+
+<Usuario>
+que es ota
+
+<Asistente>
+ota permite actualizar el firmware por wifi.
+
+<Fin>
+
+<Usuario>
+explica ota
+
+<Asistente>
+ota permite actualizar el firmware por wifi.
+
+<Fin>
+
+<Usuario>
+podrias explicar ota
+
+<Asistente>
+ota permite actualizar el firmware por wifi.
+
+<Fin>
+
+<Usuario>
+para que sirve ota
+
+<Asistente>
+ota permite actualizar el firmware por wifi.
+
+<Fin>
+
+<Usuario>
+como funciona ota
+
+<Asistente>
+ota permite actualizar el firmware por wifi.
+
+<Fin>
+
+<Usuario>
+define ota
+
+<Asistente>
+ota permite actualizar el firmware por wifi.
+
+<Fin>
+
+<Usuario>
+que hace ota
+
+<Asistente>
+ota permite actualizar el firmware por wifi.
+
+<Fin>
+
+<Usuario>
+uso de ota
+
+<Asistente>
+ota permite actualizar el firmware por wifi.
+
+<Fin>
+
+<Usuario>
+concepto de ota
+
+<Asistente>
+ota permite actualizar el firmware por wifi.
+
+<Fin>
+
+<Usuario>
+informacion sobre ota
+
+<Asistente>
+ota permite actualizar el firmware por wifi.
+
+<Fin>
+
+<Usuario>
+hablame de ota
+
+<Asistente>
+ota permite actualizar el firmware por wifi.
+
+<Fin>
+
+<Usuario>
+para que se usa ota
+
+<Asistente>
+ota permite actualizar el firmware por wifi.
+
+<Fin>
+
+<Usuario>
+que es deep sleep
+
+<Asistente>
+deep sleep reduce el consumo apagando gran parte del sistema.
+
+<Fin>
+
+<Usuario>
+explica deep sleep
+
+<Asistente>
+deep sleep reduce el consumo apagando gran parte del sistema.
+
+<Fin>
+
+<Usuario>
+podrias explicar deep sleep
+
+<Asistente>
+deep sleep reduce el consumo apagando gran parte del sistema.
+
+<Fin>
+
+<Usuario>
+para que sirve deep sleep
+
+<Asistente>
+deep sleep reduce el consumo apagando gran parte del sistema.
+
+<Fin>
+
+<Usuario>
+como funciona deep sleep
+
+<Asistente>
+deep sleep reduce el consumo apagando gran parte del sistema.
+
+<Fin>
+
+<Usuario>
+define deep sleep
+
+<Asistente>
+deep sleep reduce el consumo apagando gran parte del sistema.
+
+<Fin>
+
+<Usuario>
+que hace deep sleep
+
+<Asistente>
+deep sleep reduce el consumo apagando gran parte del sistema.
+
+<Fin>
+
+<Usuario>
+uso de deep sleep
+
+<Asistente>
+deep sleep reduce el consumo apagando gran parte del sistema.
+
+<Fin>
+
+<Usuario>
+concepto de deep sleep
+
+<Asistente>
+deep sleep reduce el consumo apagando gran parte del sistema.
+
+<Fin>
+
+<Usuario>
+informacion sobre deep sleep
+
+<Asistente>
+deep sleep reduce el consumo apagando gran parte del sistema.
+
+<Fin>
+
+<Usuario>
+hablame de deep sleep
+
+<Asistente>
+deep sleep reduce el consumo apagando gran parte del sistema.
+
+<Fin>
+
+<Usuario>
+para que se usa deep sleep
+
+<Asistente>
+deep sleep reduce el consumo apagando gran parte del sistema.
+
+<Fin>
+
+<Usuario>
+que es freertos
+
+<Asistente>
+freertos es el sistema operativo de tiempo real utilizado por esp32.
+
+<Fin>
+
+<Usuario>
+explica freertos
+
+<Asistente>
+freertos es el sistema operativo de tiempo real utilizado por esp32.
+
+<Fin>
+
+<Usuario>
+podrias explicar freertos
+
+<Asistente>
+freertos es el sistema operativo de tiempo real utilizado por esp32.
+
+<Fin>
+
+<Usuario>
+para que sirve freertos
+
+<Asistente>
+freertos es el sistema operativo de tiempo real utilizado por esp32.
+
+<Fin>
+
+<Usuario>
+como funciona freertos
+
+<Asistente>
+freertos es el sistema operativo de tiempo real utilizado por esp32.
+
+<Fin>
+
+<Usuario>
+define freertos
+
+<Asistente>
+freertos es el sistema operativo de tiempo real utilizado por esp32.
+
+<Fin>
+
+<Usuario>
+que hace freertos
+
+<Asistente>
+freertos es el sistema operativo de tiempo real utilizado por esp32.
+
+<Fin>
+
+<Usuario>
+uso de freertos
+
+<Asistente>
+freertos es el sistema operativo de tiempo real utilizado por esp32.
+
+<Fin>
+
+<Usuario>
+concepto de freertos
+
+<Asistente>
+freertos es el sistema operativo de tiempo real utilizado por esp32.
+
+<Fin>
+
+<Usuario>
+informacion sobre freertos
+
+<Asistente>
+freertos es el sistema operativo de tiempo real utilizado por esp32.
+
+<Fin>
+
+<Usuario>
+hablame de freertos
+
+<Asistente>
+freertos es el sistema operativo de tiempo real utilizado por esp32.
+
+<Fin>
+
+<Usuario>
+para que se usa freertos
+
+<Asistente>
+freertos es el sistema operativo de tiempo real utilizado por esp32.
+
+<Fin>
+
+<Usuario>
+que es json
+
+<Asistente>
+json es un formato de intercambio de datos muy utilizado en iot.
+
+<Fin>
+
+<Usuario>
+explica json
+
+<Asistente>
+json es un formato de intercambio de datos muy utilizado en iot.
+
+<Fin>
+
+<Usuario>
+podrias explicar json
+
+<Asistente>
+json es un formato de intercambio de datos muy utilizado en iot.
+
+<Fin>
+
+<Usuario>
+para que sirve json
+
+<Asistente>
+json es un formato de intercambio de datos muy utilizado en iot.
+
+<Fin>
+
+<Usuario>
+como funciona json
+
+<Asistente>
+json es un formato de intercambio de datos muy utilizado en iot.
+
+<Fin>
+
+<Usuario>
+define json
+
+<Asistente>
+json es un formato de intercambio de datos muy utilizado en iot.
+
+<Fin>
+
+<Usuario>
+que hace json
+
+<Asistente>
+json es un formato de intercambio de datos muy utilizado en iot.
+
+<Fin>
+
+<Usuario>
+uso de json
+
+<Asistente>
+json es un formato de intercambio de datos muy utilizado en iot.
+
+<Fin>
+
+<Usuario>
+concepto de json
+
+<Asistente>
+json es un formato de intercambio de datos muy utilizado en iot.
+
+<Fin>
+
+<Usuario>
+informacion sobre json
+
+<Asistente>
+json es un formato de intercambio de datos muy utilizado en iot.
+
+<Fin>
+
+<Usuario>
+hablame de json
+
+<Asistente>
+json es un formato de intercambio de datos muy utilizado en iot.
+
+<Fin>
+
+<Usuario>
+para que se usa json
+
+<Asistente>
+json es un formato de intercambio de datos muy utilizado en iot.
+
+<Fin>
+
+<Usuario>
+que es http
+
+<Asistente>
+http permite intercambiar informacion con servidores web.
+
+<Fin>
+
+<Usuario>
+explica http
+
+<Asistente>
+http permite intercambiar informacion con servidores web.
+
+<Fin>
+
+<Usuario>
+podrias explicar http
+
+<Asistente>
+http permite intercambiar informacion con servidores web.
+
+<Fin>
+
+<Usuario>
+para que sirve http
+
+<Asistente>
+http permite intercambiar informacion con servidores web.
+
+<Fin>
+
+<Usuario>
+como funciona http
+
+<Asistente>
+http permite intercambiar informacion con servidores web.
+
+<Fin>
+
+<Usuario>
+define http
+
+<Asistente>
+http permite intercambiar informacion con servidores web.
+
+<Fin>
+
+<Usuario>
+que hace http
+
+<Asistente>
+http permite intercambiar informacion con servidores web.
+
+<Fin>
+
+<Usuario>
+uso de http
+
+<Asistente>
+http permite intercambiar informacion con servidores web.
+
+<Fin>
+
+<Usuario>
+concepto de http
+
+<Asistente>
+http permite intercambiar informacion con servidores web.
+
+<Fin>
+
+<Usuario>
+informacion sobre http
+
+<Asistente>
+http permite intercambiar informacion con servidores web.
+
+<Fin>
+
+<Usuario>
+hablame de http
+
+<Asistente>
+http permite intercambiar informacion con servidores web.
+
+<Fin>
+
+<Usuario>
+para que se usa http
+
+<Asistente>
+http permite intercambiar informacion con servidores web.
+
+<Fin>
+
+<Usuario>
+que es esp now
+
+<Asistente>
+esp now permite comunicacion directa entre esp32 sin router wifi.
+
+<Fin>
+
+<Usuario>
+explica esp now
+
+<Asistente>
+esp now permite comunicacion directa entre esp32 sin router wifi.
+
+<Fin>
+
+<Usuario>
+podrias explicar esp now
+
+<Asistente>
+esp now permite comunicacion directa entre esp32 sin router wifi.
+
+<Fin>
+
+<Usuario>
+para que sirve esp now
+
+<Asistente>
+esp now permite comunicacion directa entre esp32 sin router wifi.
+
+<Fin>
+
+<Usuario>
+como funciona esp now
+
+<Asistente>
+esp now permite comunicacion directa entre esp32 sin router wifi.
+
+<Fin>
+
+<Usuario>
+define esp now
+
+<Asistente>
+esp now permite comunicacion directa entre esp32 sin router wifi.
+
+<Fin>
+
+<Usuario>
+que hace esp now
+
+<Asistente>
+esp now permite comunicacion directa entre esp32 sin router wifi.
+
+<Fin>
+
+<Usuario>
+uso de esp now
+
+<Asistente>
+esp now permite comunicacion directa entre esp32 sin router wifi.
+
+<Fin>
+
+<Usuario>
+concepto de esp now
+
+<Asistente>
+esp now permite comunicacion directa entre esp32 sin router wifi.
+
+<Fin>
+
+<Usuario>
+informacion sobre esp now
+
+<Asistente>
+esp now permite comunicacion directa entre esp32 sin router wifi.
+
+<Fin>
+
+<Usuario>
+hablame de esp now
+
+<Asistente>
+esp now permite comunicacion directa entre esp32 sin router wifi.
+
+<Fin>
+
+<Usuario>
+para que se usa esp now
+
+<Asistente>
+esp now permite comunicacion directa entre esp32 sin router wifi.
+
+<Fin>
+
+<Usuario>
+que es bme280
+
+<Asistente>
+bme280 mide temperatura humedad y presion.
+
+<Fin>
+
+<Usuario>
+explica bme280
+
+<Asistente>
+bme280 mide temperatura humedad y presion.
+
+<Fin>
+
+<Usuario>
+podrias explicar bme280
+
+<Asistente>
+bme280 mide temperatura humedad y presion.
+
+<Fin>
+
+<Usuario>
+para que sirve bme280
+
+<Asistente>
+bme280 mide temperatura humedad y presion.
+
+<Fin>
+
+<Usuario>
+como funciona bme280
+
+<Asistente>
+bme280 mide temperatura humedad y presion.
+
+<Fin>
+
+<Usuario>
+define bme280
+
+<Asistente>
+bme280 mide temperatura humedad y presion.
+
+<Fin>
+
+<Usuario>
+que hace bme280
+
+<Asistente>
+bme280 mide temperatura humedad y presion.
+
+<Fin>
+
+<Usuario>
+uso de bme280
+
+<Asistente>
+bme280 mide temperatura humedad y presion.
+
+<Fin>
+
+<Usuario>
+concepto de bme280
+
+<Asistente>
+bme280 mide temperatura humedad y presion.
+
+<Fin>
+
+<Usuario>
+informacion sobre bme280
+
+<Asistente>
+bme280 mide temperatura humedad y presion.
+
+<Fin>
+
+<Usuario>
+hablame de bme280
+
+<Asistente>
+bme280 mide temperatura humedad y presion.
+
+<Fin>
+
+<Usuario>
+para que se usa bme280
+
+<Asistente>
+bme280 mide temperatura humedad y presion.
+
+<Fin>
+
+<Usuario>
+que es dht22
+
+<Asistente>
+dht22 mide temperatura y humedad.
+
+<Fin>
+
+<Usuario>
+explica dht22
+
+<Asistente>
+dht22 mide temperatura y humedad.
+
+<Fin>
+
+<Usuario>
+podrias explicar dht22
+
+<Asistente>
+dht22 mide temperatura y humedad.
+
+<Fin>
+
+<Usuario>
+para que sirve dht22
+
+<Asistente>
+dht22 mide temperatura y humedad.
+
+<Fin>
+
+<Usuario>
+como funciona dht22
+
+<Asistente>
+dht22 mide temperatura y humedad.
+
+<Fin>
+
+<Usuario>
+define dht22
+
+<Asistente>
+dht22 mide temperatura y humedad.
+
+<Fin>
+
+<Usuario>
+que hace dht22
+
+<Asistente>
+dht22 mide temperatura y humedad.
+
+<Fin>
+
+<Usuario>
+uso de dht22
+
+<Asistente>
+dht22 mide temperatura y humedad.
+
+<Fin>
+
+<Usuario>
+concepto de dht22
+
+<Asistente>
+dht22 mide temperatura y humedad.
+
+<Fin>
+
+<Usuario>
+informacion sobre dht22
+
+<Asistente>
+dht22 mide temperatura y humedad.
+
+<Fin>
+
+<Usuario>
+hablame de dht22
+
+<Asistente>
+dht22 mide temperatura y humedad.
+
+<Fin>
+
+<Usuario>
+para que se usa dht22
+
+<Asistente>
+dht22 mide temperatura y humedad.
+
+<Fin>
+
+<Usuario>
+que es ds18b20
+
+<Asistente>
+ds18b20 es un sensor digital de temperatura.
+
+<Fin>
+
+<Usuario>
+explica ds18b20
+
+<Asistente>
+ds18b20 es un sensor digital de temperatura.
+
+<Fin>
+
+<Usuario>
+podrias explicar ds18b20
+
+<Asistente>
+ds18b20 es un sensor digital de temperatura.
+
+<Fin>
+
+<Usuario>
+para que sirve ds18b20
+
+<Asistente>
+ds18b20 es un sensor digital de temperatura.
+
+<Fin>
+
+<Usuario>
+como funciona ds18b20
+
+<Asistente>
+ds18b20 es un sensor digital de temperatura.
+
+<Fin>
+
+<Usuario>
+define ds18b20
+
+<Asistente>
+ds18b20 es un sensor digital de temperatura.
+
+<Fin>
+
+<Usuario>
+que hace ds18b20
+
+<Asistente>
+ds18b20 es un sensor digital de temperatura.
+
+<Fin>
+
+<Usuario>
+uso de ds18b20
+
+<Asistente>
+ds18b20 es un sensor digital de temperatura.
+
+<Fin>
+
+<Usuario>
+concepto de ds18b20
+
+<Asistente>
+ds18b20 es un sensor digital de temperatura.
+
+<Fin>
+
+<Usuario>
+informacion sobre ds18b20
+
+<Asistente>
+ds18b20 es un sensor digital de temperatura.
+
+<Fin>
+
+<Usuario>
+hablame de ds18b20
+
+<Asistente>
+ds18b20 es un sensor digital de temperatura.
+
+<Fin>
+
+<Usuario>
+para que se usa ds18b20
+
+<Asistente>
+ds18b20 es un sensor digital de temperatura.
+
+<Fin>
+
+<Usuario>
+que es hc-sr04
+
+<Asistente>
+hc-sr04 es un sensor ultrasonico para medir distancia.
+
+<Fin>
+
+<Usuario>
+explica hc-sr04
+
+<Asistente>
+hc-sr04 es un sensor ultrasonico para medir distancia.
+
+<Fin>
+
+<Usuario>
+podrias explicar hc-sr04
+
+<Asistente>
+hc-sr04 es un sensor ultrasonico para medir distancia.
+
+<Fin>
+
+<Usuario>
+para que sirve hc-sr04
+
+<Asistente>
+hc-sr04 es un sensor ultrasonico para medir distancia.
+
+<Fin>
+
+<Usuario>
+como funciona hc-sr04
+
+<Asistente>
+hc-sr04 es un sensor ultrasonico para medir distancia.
+
+<Fin>
+
+<Usuario>
+define hc-sr04
+
+<Asistente>
+hc-sr04 es un sensor ultrasonico para medir distancia.
+
+<Fin>
+
+<Usuario>
+que hace hc-sr04
+
+<Asistente>
+hc-sr04 es un sensor ultrasonico para medir distancia.
+
+<Fin>
+
+<Usuario>
+uso de hc-sr04
+
+<Asistente>
+hc-sr04 es un sensor ultrasonico para medir distancia.
+
+<Fin>
+
+<Usuario>
+concepto de hc-sr04
+
+<Asistente>
+hc-sr04 es un sensor ultrasonico para medir distancia.
+
+<Fin>
+
+<Usuario>
+informacion sobre hc-sr04
+
+<Asistente>
+hc-sr04 es un sensor ultrasonico para medir distancia.
+
+<Fin>
+
+<Usuario>
+hablame de hc-sr04
+
+<Asistente>
+hc-sr04 es un sensor ultrasonico para medir distancia.
+
+<Fin>
+
+<Usuario>
+para que se usa hc-sr04
+
+<Asistente>
+hc-sr04 es un sensor ultrasonico para medir distancia.
+
+<Fin>
+
+<Usuario>
+que es mpu6050
+
+<Asistente>
+mpu6050 incorpora acelerometro y giroscopio.
+
+<Fin>
+
+<Usuario>
+explica mpu6050
+
+<Asistente>
+mpu6050 incorpora acelerometro y giroscopio.
+
+<Fin>
+
+<Usuario>
+podrias explicar mpu6050
+
+<Asistente>
+mpu6050 incorpora acelerometro y giroscopio.
+
+<Fin>
+
+<Usuario>
+para que sirve mpu6050
+
+<Asistente>
+mpu6050 incorpora acelerometro y giroscopio.
+
+<Fin>
+
+<Usuario>
+como funciona mpu6050
+
+<Asistente>
+mpu6050 incorpora acelerometro y giroscopio.
+
+<Fin>
+
+<Usuario>
+define mpu6050
+
+<Asistente>
+mpu6050 incorpora acelerometro y giroscopio.
+
+<Fin>
+
+<Usuario>
+que hace mpu6050
+
+<Asistente>
+mpu6050 incorpora acelerometro y giroscopio.
+
+<Fin>
+
+<Usuario>
+uso de mpu6050
+
+<Asistente>
+mpu6050 incorpora acelerometro y giroscopio.
+
+<Fin>
+
+<Usuario>
+concepto de mpu6050
+
+<Asistente>
+mpu6050 incorpora acelerometro y giroscopio.
+
+<Fin>
+
+<Usuario>
+informacion sobre mpu6050
+
+<Asistente>
+mpu6050 incorpora acelerometro y giroscopio.
+
+<Fin>
+
+<Usuario>
+hablame de mpu6050
+
+<Asistente>
+mpu6050 incorpora acelerometro y giroscopio.
+
+<Fin>
+
+<Usuario>
+para que se usa mpu6050
+
+<Asistente>
+mpu6050 incorpora acelerometro y giroscopio.
+
+<Fin>
+
+<Usuario>
+que es alimentacion
+
+<Asistente>
+el esp32 debe alimentarse con una fuente estable y masas comunes.
+
+<Fin>
+
+<Usuario>
+explica alimentacion
+
+<Asistente>
+el esp32 debe alimentarse con una fuente estable y masas comunes.
+
+<Fin>
+
+<Usuario>
+podrias explicar alimentacion
+
+<Asistente>
+el esp32 debe alimentarse con una fuente estable y masas comunes.
+
+<Fin>
+
+<Usuario>
+para que sirve alimentacion
+
+<Asistente>
+el esp32 debe alimentarse con una fuente estable y masas comunes.
+
+<Fin>
+
+<Usuario>
+como funciona alimentacion
+
+<Asistente>
+el esp32 debe alimentarse con una fuente estable y masas comunes.
+
+<Fin>
+
+<Usuario>
+define alimentacion
+
+<Asistente>
+el esp32 debe alimentarse con una fuente estable y masas comunes.
+
+<Fin>
+
+<Usuario>
+que hace alimentacion
+
+<Asistente>
+el esp32 debe alimentarse con una fuente estable y masas comunes.
+
+<Fin>
+
+<Usuario>
+uso de alimentacion
+
+<Asistente>
+el esp32 debe alimentarse con una fuente estable y masas comunes.
+
+<Fin>
+
+<Usuario>
+concepto de alimentacion
+
+<Asistente>
+el esp32 debe alimentarse con una fuente estable y masas comunes.
+
+<Fin>
+
+<Usuario>
+informacion sobre alimentacion
+
+<Asistente>
+el esp32 debe alimentarse con una fuente estable y masas comunes.
+
+<Fin>
+
+<Usuario>
+hablame de alimentacion
+
+<Asistente>
+el esp32 debe alimentarse con una fuente estable y masas comunes.
+
+<Fin>
+
+<Usuario>
+para que se usa alimentacion
+
+<Asistente>
+el esp32 debe alimentarse con una fuente estable y masas comunes.
+
+<Fin>
+
+<Usuario>
+que es gpio21
+
+<Asistente>
+gpio21 suele utilizarse como sda en i2c.
+
+<Fin>
+
+<Usuario>
+explica gpio21
+
+<Asistente>
+gpio21 suele utilizarse como sda en i2c.
+
+<Fin>
+
+<Usuario>
+podrias explicar gpio21
+
+<Asistente>
+gpio21 suele utilizarse como sda en i2c.
+
+<Fin>
+
+<Usuario>
+para que sirve gpio21
+
+<Asistente>
+gpio21 suele utilizarse como sda en i2c.
+
+<Fin>
+
+<Usuario>
+como funciona gpio21
+
+<Asistente>
+gpio21 suele utilizarse como sda en i2c.
+
+<Fin>
+
+<Usuario>
+define gpio21
+
+<Asistente>
+gpio21 suele utilizarse como sda en i2c.
+
+<Fin>
+
+<Usuario>
+que hace gpio21
+
+<Asistente>
+gpio21 suele utilizarse como sda en i2c.
+
+<Fin>
+
+<Usuario>
+uso de gpio21
+
+<Asistente>
+gpio21 suele utilizarse como sda en i2c.
+
+<Fin>
+
+<Usuario>
+concepto de gpio21
+
+<Asistente>
+gpio21 suele utilizarse como sda en i2c.
+
+<Fin>
+
+<Usuario>
+informacion sobre gpio21
+
+<Asistente>
+gpio21 suele utilizarse como sda en i2c.
+
+<Fin>
+
+<Usuario>
+hablame de gpio21
+
+<Asistente>
+gpio21 suele utilizarse como sda en i2c.
+
+<Fin>
+
+<Usuario>
+para que se usa gpio21
+
+<Asistente>
+gpio21 suele utilizarse como sda en i2c.
+
+<Fin>
+
+<Usuario>
+que es gpio22
+
+<Asistente>
+gpio22 suele utilizarse como scl en i2c.
+
+<Fin>
+
+<Usuario>
+explica gpio22
+
+<Asistente>
+gpio22 suele utilizarse como scl en i2c.
+
+<Fin>
+
+<Usuario>
+podrias explicar gpio22
+
+<Asistente>
+gpio22 suele utilizarse como scl en i2c.
+
+<Fin>
+
+<Usuario>
+para que sirve gpio22
+
+<Asistente>
+gpio22 suele utilizarse como scl en i2c.
+
+<Fin>
+
+<Usuario>
+como funciona gpio22
+
+<Asistente>
+gpio22 suele utilizarse como scl en i2c.
+
+<Fin>
+
+<Usuario>
+define gpio22
+
+<Asistente>
+gpio22 suele utilizarse como scl en i2c.
+
+<Fin>
+
+<Usuario>
+que hace gpio22
+
+<Asistente>
+gpio22 suele utilizarse como scl en i2c.
+
+<Fin>
+
+<Usuario>
+uso de gpio22
+
+<Asistente>
+gpio22 suele utilizarse como scl en i2c.
+
+<Fin>
+
+<Usuario>
+concepto de gpio22
+
+<Asistente>
+gpio22 suele utilizarse como scl en i2c.
+
+<Fin>
+
+<Usuario>
+informacion sobre gpio22
+
+<Asistente>
+gpio22 suele utilizarse como scl en i2c.
+
+<Fin>
+
+<Usuario>
+hablame de gpio22
+
+<Asistente>
+gpio22 suele utilizarse como scl en i2c.
+
+<Fin>
+
+<Usuario>
+para que se usa gpio22
+
+<Asistente>
+gpio22 suele utilizarse como scl en i2c.
+
+<Fin>
+
+<Usuario>
+que es gpio34
+
+<Asistente>
+gpio34 es un pin de entrada util para adc.
+
+<Fin>
+
+<Usuario>
+explica gpio34
+
+<Asistente>
+gpio34 es un pin de entrada util para adc.
+
+<Fin>
+
+<Usuario>
+podrias explicar gpio34
+
+<Asistente>
+gpio34 es un pin de entrada util para adc.
+
+<Fin>
+
+<Usuario>
+para que sirve gpio34
+
+<Asistente>
+gpio34 es un pin de entrada util para adc.
+
+<Fin>
+
+<Usuario>
+como funciona gpio34
+
+<Asistente>
+gpio34 es un pin de entrada util para adc.
+
+<Fin>
+
+<Usuario>
+define gpio34
+
+<Asistente>
+gpio34 es un pin de entrada util para adc.
+
+<Fin>
+
+<Usuario>
+que hace gpio34
+
+<Asistente>
+gpio34 es un pin de entrada util para adc.
+
+<Fin>
+
+<Usuario>
+uso de gpio34
+
+<Asistente>
+gpio34 es un pin de entrada util para adc.
+
+<Fin>
+
+<Usuario>
+concepto de gpio34
+
+<Asistente>
+gpio34 es un pin de entrada util para adc.
+
+<Fin>
+
+<Usuario>
+informacion sobre gpio34
+
+<Asistente>
+gpio34 es un pin de entrada util para adc.
+
+<Fin>
+
+<Usuario>
+hablame de gpio34
+
+<Asistente>
+gpio34 es un pin de entrada util para adc.
+
+<Fin>
+
+<Usuario>
+para que se usa gpio34
+
+<Asistente>
+gpio34 es un pin de entrada util para adc.
+
+<Fin>
+
+<Usuario>
+que es gpio2
+
+<Asistente>
+gpio2 suele usarse para el led integrado en muchas placas.
+
+<Fin>
+
+<Usuario>
+explica gpio2
+
+<Asistente>
+gpio2 suele usarse para el led integrado en muchas placas.
+
+<Fin>
+
+<Usuario>
+podrias explicar gpio2
+
+<Asistente>
+gpio2 suele usarse para el led integrado en muchas placas.
+
+<Fin>
+
+<Usuario>
+para que sirve gpio2
+
+<Asistente>
+gpio2 suele usarse para el led integrado en muchas placas.
+
+<Fin>
+
+<Usuario>
+como funciona gpio2
+
+<Asistente>
+gpio2 suele usarse para el led integrado en muchas placas.
+
+<Fin>
+
+<Usuario>
+define gpio2
+
+<Asistente>
+gpio2 suele usarse para el led integrado en muchas placas.
+
+<Fin>
+
+<Usuario>
+que hace gpio2
+
+<Asistente>
+gpio2 suele usarse para el led integrado en muchas placas.
+
+<Fin>
+
+<Usuario>
+uso de gpio2
+
+<Asistente>
+gpio2 suele usarse para el led integrado en muchas placas.
+
+<Fin>
+
+<Usuario>
+concepto de gpio2
+
+<Asistente>
+gpio2 suele usarse para el led integrado en muchas placas.
+
+<Fin>
+
+<Usuario>
+informacion sobre gpio2
+
+<Asistente>
+gpio2 suele usarse para el led integrado en muchas placas.
+
+<Fin>
+
+<Usuario>
+hablame de gpio2
+
+<Asistente>
+gpio2 suele usarse para el led integrado en muchas placas.
+
+<Fin>
+
+<Usuario>
+para que se usa gpio2
+
+<Asistente>
+gpio2 suele usarse para el led integrado en muchas placas.
+
+<Fin>
+
+<Usuario>
+porque no conecta wifi caso 1
+
+<Asistente>
+verificar ssid contraseña señal y alimentacion del esp32.
+
+<Fin>
+
+<Usuario>
+porque no conecta wifi caso 2
+
+<Asistente>
+verificar ssid contraseña señal y alimentacion del esp32.
+
+<Fin>
+
+<Usuario>
+porque no conecta wifi caso 3
+
+<Asistente>
+verificar ssid contraseña señal y alimentacion del esp32.
+
+<Fin>
+
+<Usuario>
+porque reinicia el esp32 caso 1
+
+<Asistente>
+revisar alimentacion watchdog y consumo de corriente.
+
+<Fin>
+
+<Usuario>
+porque reinicia el esp32 caso 2
+
+<Asistente>
+revisar alimentacion watchdog y consumo de corriente.
+
+<Fin>
+
+<Usuario>
+porque reinicia el esp32 caso 3
+
+<Asistente>
+revisar alimentacion watchdog y consumo de corriente.
+
+<Fin>
+
+<Usuario>
+porque falla mqtt caso 1
+
+<Asistente>
+verificar broker credenciales y conectividad de red.
+
+<Fin>
+
+<Usuario>
+porque falla mqtt caso 2
+
+<Asistente>
+verificar broker credenciales y conectividad de red.
+
+<Fin>
+
+<Usuario>
+porque falla mqtt caso 3
+
+<Asistente>
+verificar broker credenciales y conectividad de red.
+
+<Fin>
+
+<Usuario>
+porque no funciona i2c caso 1
+
+<Asistente>
+comprobar conexiones sda scl y direccion del dispositivo.
+
+<Fin>
+
+<Usuario>
+porque no funciona i2c caso 2
+
+<Asistente>
+comprobar conexiones sda scl y direccion del dispositivo.
+
+<Fin>
+
+<Usuario>
+porque no funciona i2c caso 3
+
+<Asistente>
+comprobar conexiones sda scl y direccion del dispositivo.
+
+<Fin>
+
+<Usuario>
+porque no funciona spi caso 1
+
+<Asistente>
+verificar mosi miso sck y seleccion de chip.
+
+<Fin>
+
+<Usuario>
+porque no funciona spi caso 2
+
+<Asistente>
+verificar mosi miso sck y seleccion de chip.
+
+<Fin>
+
+<Usuario>
+porque no funciona spi caso 3
+
+<Asistente>
+verificar mosi miso sck y seleccion de chip.
+
+<Fin>
+
+<Usuario>
+por que no conecta wifi variante 1
+
+<Asistente>
+verificar ssid contraseña intensidad de señal y alimentacion estable del esp32.
+
+<Fin>
+
+<Usuario>
+por que reinicia el esp32 variante 1
+
+<Asistente>
+revisar fuente de alimentacion watchdog y consumo de corriente.
+
+<Fin>
+
+<Usuario>
+que significa brownout variante 1
+
+<Asistente>
+brownout indica una caida de tension por debajo del nivel seguro.
+
+<Fin>
+
+<Usuario>
+por que no aparece el puerto serie variante 1
+
+<Asistente>
+verificar cable usb drivers y puerto seleccionado.
+
+<Fin>
+
+<Usuario>
+por que mqtt no conecta variante 1
+
+<Asistente>
+verificar broker credenciales puerto y conexion wifi.
+
+<Fin>
+
+<Usuario>
+por que el adc devuelve cero variante 1
+
+<Asistente>
+comprobar cableado configuracion del pin y rango de tension.
+
+<Fin>
+
+<Usuario>
+por que no funciona i2c variante 1
+
+<Asistente>
+verificar sda scl direccion y resistencias pullup.
+
+<Fin>
+
+<Usuario>
+por que no funciona spi variante 1
+
+<Asistente>
+comprobar mosi miso sck y seleccion de chip.
+
+<Fin>
+
+<Usuario>
+por que falla la oled variante 1
+
+<Asistente>
+verificar direccion i2c alimentacion y libreria utilizada.
+
+<Fin>
+
+<Usuario>
+por que el esp32 se calienta variante 1
+
+<Asistente>
+revisar cortocircuitos voltaje incorrecto y sobreconsumo.
+
+<Fin>
+
+<Usuario>
+por que no conecta wifi variante 2
+
+<Asistente>
+verificar ssid contraseña intensidad de señal y alimentacion estable del esp32.
+
+<Fin>
+
+<Usuario>
+por que reinicia el esp32 variante 2
+
+<Asistente>
+revisar fuente de alimentacion watchdog y consumo de corriente.
+
+<Fin>
+
+<Usuario>
+que significa brownout variante 2
+
+<Asistente>
+brownout indica una caida de tension por debajo del nivel seguro.
+
+<Fin>
+
+<Usuario>
+por que no aparece el puerto serie variante 2
+
+<Asistente>
+verificar cable usb drivers y puerto seleccionado.
+
+<Fin>
+
+<Usuario>
+por que mqtt no conecta variante 2
+
+<Asistente>
+verificar broker credenciales puerto y conexion wifi.
+
+<Fin>
+
+<Usuario>
+por que el adc devuelve cero variante 2
+
+<Asistente>
+comprobar cableado configuracion del pin y rango de tension.
+
+<Fin>
+
+<Usuario>
+por que no funciona i2c variante 2
+
+<Asistente>
+verificar sda scl direccion y resistencias pullup.
+
+<Fin>
+
+<Usuario>
+por que no funciona spi variante 2
+
+<Asistente>
+comprobar mosi miso sck y seleccion de chip.
+
+<Fin>
+
+<Usuario>
+por que falla la oled variante 2
+
+<Asistente>
+verificar direccion i2c alimentacion y libreria utilizada.
+
+<Fin>
+
+<Usuario>
+por que el esp32 se calienta variante 2
+
+<Asistente>
+revisar cortocircuitos voltaje incorrecto y sobreconsumo.
+
+<Fin>
+
+<Usuario>
+por que no conecta wifi variante 3
+
+<Asistente>
+verificar ssid contraseña intensidad de señal y alimentacion estable del esp32.
+
+<Fin>
+
+<Usuario>
+por que reinicia el esp32 variante 3
+
+<Asistente>
+revisar fuente de alimentacion watchdog y consumo de corriente.
+
+<Fin>
+
+<Usuario>
+que significa brownout variante 3
+
+<Asistente>
+brownout indica una caida de tension por debajo del nivel seguro.
+
+<Fin>
+
+<Usuario>
+por que no aparece el puerto serie variante 3
+
+<Asistente>
+verificar cable usb drivers y puerto seleccionado.
+
+<Fin>
+
+<Usuario>
+por que mqtt no conecta variante 3
+
+<Asistente>
+verificar broker credenciales puerto y conexion wifi.
+
+<Fin>
+
+<Usuario>
+por que el adc devuelve cero variante 3
+
+<Asistente>
+comprobar cableado configuracion del pin y rango de tension.
+
+<Fin>
+
+<Usuario>
+por que no funciona i2c variante 3
+
+<Asistente>
+verificar sda scl direccion y resistencias pullup.
+
+<Fin>
+
+<Usuario>
+por que no funciona spi variante 3
+
+<Asistente>
+comprobar mosi miso sck y seleccion de chip.
+
+<Fin>
+
+<Usuario>
+por que falla la oled variante 3
+
+<Asistente>
+verificar direccion i2c alimentacion y libreria utilizada.
+
+<Fin>
+
+<Usuario>
+por que el esp32 se calienta variante 3
+
+<Asistente>
+revisar cortocircuitos voltaje incorrecto y sobreconsumo.
+
+<Fin>
+
+<Usuario>
+por que no conecta wifi variante 4
+
+<Asistente>
+verificar ssid contraseña intensidad de señal y alimentacion estable del esp32.
+
+<Fin>
+
+<Usuario>
+por que reinicia el esp32 variante 4
+
+<Asistente>
+revisar fuente de alimentacion watchdog y consumo de corriente.
+
+<Fin>
+
+<Usuario>
+que significa brownout variante 4
+
+<Asistente>
+brownout indica una caida de tension por debajo del nivel seguro.
+
+<Fin>
+
+<Usuario>
+por que no aparece el puerto serie variante 4
+
+<Asistente>
+verificar cable usb drivers y puerto seleccionado.
+
+<Fin>
+
+<Usuario>
+por que mqtt no conecta variante 4
+
+<Asistente>
+verificar broker credenciales puerto y conexion wifi.
+
+<Fin>
+
+<Usuario>
+por que el adc devuelve cero variante 4
+
+<Asistente>
+comprobar cableado configuracion del pin y rango de tension.
+
+<Fin>
+
+<Usuario>
+por que no funciona i2c variante 4
+
+<Asistente>
+verificar sda scl direccion y resistencias pullup.
+
+<Fin>
+
+<Usuario>
+por que no funciona spi variante 4
+
+<Asistente>
+comprobar mosi miso sck y seleccion de chip.
+
+<Fin>
+
+<Usuario>
+por que falla la oled variante 4
+
+<Asistente>
+verificar direccion i2c alimentacion y libreria utilizada.
+
+<Fin>
+
+<Usuario>
+por que el esp32 se calienta variante 4
+
+<Asistente>
+revisar cortocircuitos voltaje incorrecto y sobreconsumo.
+
+<Fin>
+
+<Usuario>
+por que no conecta wifi variante 5
+
+<Asistente>
+verificar ssid contraseña intensidad de señal y alimentacion estable del esp32.
+
+<Fin>
+
+<Usuario>
+por que reinicia el esp32 variante 5
+
+<Asistente>
+revisar fuente de alimentacion watchdog y consumo de corriente.
+
+<Fin>
+
+<Usuario>
+que significa brownout variante 5
+
+<Asistente>
+brownout indica una caida de tension por debajo del nivel seguro.
+
+<Fin>
+
+<Usuario>
+por que no aparece el puerto serie variante 5
+
+<Asistente>
+verificar cable usb drivers y puerto seleccionado.
+
+<Fin>
+
+<Usuario>
+por que mqtt no conecta variante 5
+
+<Asistente>
+verificar broker credenciales puerto y conexion wifi.
+
+<Fin>
+
+<Usuario>
+por que el adc devuelve cero variante 5
+
+<Asistente>
+comprobar cableado configuracion del pin y rango de tension.
+
+<Fin>
+
+<Usuario>
+por que no funciona i2c variante 5
+
+<Asistente>
+verificar sda scl direccion y resistencias pullup.
+
+<Fin>
+
+<Usuario>
+por que no funciona spi variante 5
+
+<Asistente>
+comprobar mosi miso sck y seleccion de chip.
+
+<Fin>
+
+<Usuario>
+por que falla la oled variante 5
+
+<Asistente>
+verificar direccion i2c alimentacion y libreria utilizada.
+
+<Fin>
+
+<Usuario>
+por que el esp32 se calienta variante 5
+
+<Asistente>
+revisar cortocircuitos voltaje incorrecto y sobreconsumo.
+
+<Fin>
