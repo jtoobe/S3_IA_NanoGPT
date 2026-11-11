@@ -157,7 +157,7 @@ REM ==========================================
 REM DATASET
 REM ==========================================
 
-if not exist dataset_350_esp32_troubleshooting.txt (
+if not exist dataset.txt (
     echo ERROR: dataset no encontrado
     pause
     exit /b 1
