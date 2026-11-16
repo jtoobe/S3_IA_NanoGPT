@@ -5,7 +5,7 @@
 
   IMPORTANTE:
   - El modelo fue entrenado con secuencias de 16 tokens.
-  - La tokenizacion original no fue entregada. Este sketch usa tokens separados
+  - Este sketch usa tokens separados
     por espacios, en minusculas y sin acentos. Es una aproximacion.
   - Los pesos INT8 se convierten a float como int8 * escala del tensor.
   - Generacion greedy (elige siempre el token de mayor logit).
