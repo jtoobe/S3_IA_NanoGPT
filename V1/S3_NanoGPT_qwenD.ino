@@ -5,6 +5,7 @@
  * Formato de secuencia que el entrenador construye:
  *   <usuario> pregunta <asistente> respuesta <fin>
  *   índices:  0=<pad> 1=<unk> 2=<usuario> 3=<asistente> 4=<fin>
+ * Programacion asistida con Qwen3.7-Plus
  */
 
 #include "model.h"
