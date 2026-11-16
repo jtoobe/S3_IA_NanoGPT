@@ -1,0 +1,1500 @@
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> que es el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> explica un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> para que sirve conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> como funciona mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> define i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> cuando usar spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> cual es la funcion de uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> dame informacion sobre un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> que ventajas tiene pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> que aplicaciones tiene ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> que es freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> explica ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> para que sirve littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> como funciona esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> define usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>
+<usuario> cuando usar el esp32 <asistente> el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados <fin>
+<usuario> cual es la funcion de un gpio <asistente> gpio es una entrada o salida digital configurable del microcontrolador <fin>
+<usuario> dame informacion sobre conectar el esp32 a wifi <asistente> se utiliza wifi.begin con el ssid y la contraseña de la red <fin>
+<usuario> que ventajas tiene mqtt <asistente> mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot <fin>
+<usuario> que aplicaciones tiene i2c <asistente> i2c es un bus de comunicacion serial de dos cables <fin>
+<usuario> que es spi <asistente> spi es un protocolo serial de alta velocidad para periféricos <fin>
+<usuario> explica uart <asistente> uart permite comunicacion serial asincrona entre dispositivos <fin>
+<usuario> para que sirve un adc <asistente> adc convierte una señal analogica en un valor digital <fin>
+<usuario> como funciona pwm <asistente> pwm permite controlar potencia mediante variacion del ciclo de trabajo <fin>
+<usuario> define ble <asistente> ble es una version de bajo consumo de bluetooth <fin>
+<usuario> cuando usar freertos <asistente> freertos es el sistema operativo en tiempo real usado por esp32 <fin>
+<usuario> cual es la funcion de ota <asistente> ota permite actualizar el firmware de forma remota <fin>
+<usuario> dame informacion sobre littlefs <asistente> littlefs es un sistema de archivos para memoria flash <fin>
+<usuario> que ventajas tiene esp-now <asistente> esp-now permite comunicaciones directas entre esp32 sin router wifi <fin>
+<usuario> que aplicaciones tiene usar una pantalla oled <asistente> las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306 <fin>

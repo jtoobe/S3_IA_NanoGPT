@@ -1,0 +1,522 @@
+[
+  {
+    "pregunta": "que es el esp32",
+    "respuesta": "el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados"
+  },
+  {
+    "pregunta": "cuando usar el esp32",
+    "respuesta": "el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados"
+  },
+  {
+    "pregunta": "explica el esp32",
+    "respuesta": "el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados"
+  },
+  {
+    "pregunta": "define el esp32",
+    "respuesta": "el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados"
+  },
+  {
+    "pregunta": "para que sirve el esp32",
+    "respuesta": "el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados"
+  },
+  {
+    "pregunta": "como funciona el esp32",
+    "respuesta": "el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados"
+  },
+  {
+    "pregunta": "cual es la funcion de el esp32",
+    "respuesta": "el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados"
+  },
+  {
+    "pregunta": "dame informacion sobre el esp32",
+    "respuesta": "el esp32 es un microcontrolador de espressif con wifi y bluetooth integrados"
+  },
+  {
+    "pregunta": "explica un gpio",
+    "respuesta": "gpio es una entrada o salida digital configurable del microcontrolador"
+  },
+  {
+    "pregunta": "cual es la funcion de un gpio",
+    "respuesta": "gpio es una entrada o salida digital configurable del microcontrolador"
+  },
+  {
+    "pregunta": "que es un gpio",
+    "respuesta": "gpio es una entrada o salida digital configurable del microcontrolador"
+  },
+  {
+    "pregunta": "define un gpio",
+    "respuesta": "gpio es una entrada o salida digital configurable del microcontrolador"
+  },
+  {
+    "pregunta": "para que sirve un gpio",
+    "respuesta": "gpio es una entrada o salida digital configurable del microcontrolador"
+  },
+  {
+    "pregunta": "como funciona un gpio",
+    "respuesta": "gpio es una entrada o salida digital configurable del microcontrolador"
+  },
+  {
+    "pregunta": "dame informacion sobre un gpio",
+    "respuesta": "gpio es una entrada o salida digital configurable del microcontrolador"
+  },
+  {
+    "pregunta": "para que sirve conectar el esp32 a wifi",
+    "respuesta": "se utiliza wifibegin con el ssid y la contrasena de la red"
+  },
+  {
+    "pregunta": "dame informacion sobre conectar el esp32 a wifi",
+    "respuesta": "se utiliza wifibegin con el ssid y la contrasena de la red"
+  },
+  {
+    "pregunta": "que es a wifi",
+    "respuesta": "se utiliza wifibegin con el ssid y la contrasena de la red"
+  },
+  {
+    "pregunta": "explica a wifi",
+    "respuesta": "se utiliza wifibegin con el ssid y la contrasena de la red"
+  },
+  {
+    "pregunta": "define a wifi",
+    "respuesta": "se utiliza wifibegin con el ssid y la contrasena de la red"
+  },
+  {
+    "pregunta": "para que sirve a wifi",
+    "respuesta": "se utiliza wifibegin con el ssid y la contrasena de la red"
+  },
+  {
+    "pregunta": "como funciona a wifi",
+    "respuesta": "se utiliza wifibegin con el ssid y la contrasena de la red"
+  },
+  {
+    "pregunta": "cual es la funcion de a wifi",
+    "respuesta": "se utiliza wifibegin con el ssid y la contrasena de la red"
+  },
+  {
+    "pregunta": "dame informacion sobre a wifi",
+    "respuesta": "se utiliza wifibegin con el ssid y la contrasena de la red"
+  },
+  {
+    "pregunta": "como funciona mqtt",
+    "respuesta": "mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot"
+  },
+  {
+    "pregunta": "que ventajas tiene mqtt",
+    "respuesta": "mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot"
+  },
+  {
+    "pregunta": "que es funciona mqtt",
+    "respuesta": "mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot"
+  },
+  {
+    "pregunta": "explica funciona mqtt",
+    "respuesta": "mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot"
+  },
+  {
+    "pregunta": "define funciona mqtt",
+    "respuesta": "mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot"
+  },
+  {
+    "pregunta": "para que sirve funciona mqtt",
+    "respuesta": "mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot"
+  },
+  {
+    "pregunta": "como funciona funciona mqtt",
+    "respuesta": "mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot"
+  },
+  {
+    "pregunta": "cual es la funcion de funciona mqtt",
+    "respuesta": "mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot"
+  },
+  {
+    "pregunta": "dame informacion sobre funciona mqtt",
+    "respuesta": "mqtt es un protocolo de mensajeria liviano utilizado en aplicaciones iot"
+  },
+  {
+    "pregunta": "define i2c",
+    "respuesta": "i2c es un bus de comunicacion serial de dos cables"
+  },
+  {
+    "pregunta": "que aplicaciones tiene i2c",
+    "respuesta": "i2c es un bus de comunicacion serial de dos cables"
+  },
+  {
+    "pregunta": "que es define i2c",
+    "respuesta": "i2c es un bus de comunicacion serial de dos cables"
+  },
+  {
+    "pregunta": "explica define i2c",
+    "respuesta": "i2c es un bus de comunicacion serial de dos cables"
+  },
+  {
+    "pregunta": "define define i2c",
+    "respuesta": "i2c es un bus de comunicacion serial de dos cables"
+  },
+  {
+    "pregunta": "para que sirve define i2c",
+    "respuesta": "i2c es un bus de comunicacion serial de dos cables"
+  },
+  {
+    "pregunta": "como funciona define i2c",
+    "respuesta": "i2c es un bus de comunicacion serial de dos cables"
+  },
+  {
+    "pregunta": "cual es la funcion de define i2c",
+    "respuesta": "i2c es un bus de comunicacion serial de dos cables"
+  },
+  {
+    "pregunta": "dame informacion sobre define i2c",
+    "respuesta": "i2c es un bus de comunicacion serial de dos cables"
+  },
+  {
+    "pregunta": "cuando usar spi",
+    "respuesta": "spi es un protocolo serial de alta velocidad para perifericos"
+  },
+  {
+    "pregunta": "que es spi",
+    "respuesta": "spi es un protocolo serial de alta velocidad para perifericos"
+  },
+  {
+    "pregunta": "que es usar spi",
+    "respuesta": "spi es un protocolo serial de alta velocidad para perifericos"
+  },
+  {
+    "pregunta": "explica usar spi",
+    "respuesta": "spi es un protocolo serial de alta velocidad para perifericos"
+  },
+  {
+    "pregunta": "define usar spi",
+    "respuesta": "spi es un protocolo serial de alta velocidad para perifericos"
+  },
+  {
+    "pregunta": "para que sirve usar spi",
+    "respuesta": "spi es un protocolo serial de alta velocidad para perifericos"
+  },
+  {
+    "pregunta": "como funciona usar spi",
+    "respuesta": "spi es un protocolo serial de alta velocidad para perifericos"
+  },
+  {
+    "pregunta": "cual es la funcion de usar spi",
+    "respuesta": "spi es un protocolo serial de alta velocidad para perifericos"
+  },
+  {
+    "pregunta": "dame informacion sobre usar spi",
+    "respuesta": "spi es un protocolo serial de alta velocidad para perifericos"
+  },
+  {
+    "pregunta": "cual es la funcion de uart",
+    "respuesta": "uart permite comunicacion serial asincrona entre dispositivos"
+  },
+  {
+    "pregunta": "explica uart",
+    "respuesta": "uart permite comunicacion serial asincrona entre dispositivos"
+  },
+  {
+    "pregunta": "que es de uart",
+    "respuesta": "uart permite comunicacion serial asincrona entre dispositivos"
+  },
+  {
+    "pregunta": "explica de uart",
+    "respuesta": "uart permite comunicacion serial asincrona entre dispositivos"
+  },
+  {
+    "pregunta": "define de uart",
+    "respuesta": "uart permite comunicacion serial asincrona entre dispositivos"
+  },
+  {
+    "pregunta": "para que sirve de uart",
+    "respuesta": "uart permite comunicacion serial asincrona entre dispositivos"
+  },
+  {
+    "pregunta": "como funciona de uart",
+    "respuesta": "uart permite comunicacion serial asincrona entre dispositivos"
+  },
+  {
+    "pregunta": "cual es la funcion de de uart",
+    "respuesta": "uart permite comunicacion serial asincrona entre dispositivos"
+  },
+  {
+    "pregunta": "dame informacion sobre de uart",
+    "respuesta": "uart permite comunicacion serial asincrona entre dispositivos"
+  },
+  {
+    "pregunta": "dame informacion sobre un adc",
+    "respuesta": "adc convierte una senal analogica en un valor digital"
+  },
+  {
+    "pregunta": "para que sirve un adc",
+    "respuesta": "adc convierte una senal analogica en un valor digital"
+  },
+  {
+    "pregunta": "que es un adc",
+    "respuesta": "adc convierte una senal analogica en un valor digital"
+  },
+  {
+    "pregunta": "explica un adc",
+    "respuesta": "adc convierte una senal analogica en un valor digital"
+  },
+  {
+    "pregunta": "define un adc",
+    "respuesta": "adc convierte una senal analogica en un valor digital"
+  },
+  {
+    "pregunta": "como funciona un adc",
+    "respuesta": "adc convierte una senal analogica en un valor digital"
+  },
+  {
+    "pregunta": "cual es la funcion de un adc",
+    "respuesta": "adc convierte una senal analogica en un valor digital"
+  },
+  {
+    "pregunta": "que ventajas tiene pwm",
+    "respuesta": "pwm permite controlar potencia mediante variacion del ciclo de trabajo"
+  },
+  {
+    "pregunta": "como funciona pwm",
+    "respuesta": "pwm permite controlar potencia mediante variacion del ciclo de trabajo"
+  },
+  {
+    "pregunta": "que es tiene pwm",
+    "respuesta": "pwm permite controlar potencia mediante variacion del ciclo de trabajo"
+  },
+  {
+    "pregunta": "explica tiene pwm",
+    "respuesta": "pwm permite controlar potencia mediante variacion del ciclo de trabajo"
+  },
+  {
+    "pregunta": "define tiene pwm",
+    "respuesta": "pwm permite controlar potencia mediante variacion del ciclo de trabajo"
+  },
+  {
+    "pregunta": "para que sirve tiene pwm",
+    "respuesta": "pwm permite controlar potencia mediante variacion del ciclo de trabajo"
+  },
+  {
+    "pregunta": "como funciona tiene pwm",
+    "respuesta": "pwm permite controlar potencia mediante variacion del ciclo de trabajo"
+  },
+  {
+    "pregunta": "cual es la funcion de tiene pwm",
+    "respuesta": "pwm permite controlar potencia mediante variacion del ciclo de trabajo"
+  },
+  {
+    "pregunta": "dame informacion sobre tiene pwm",
+    "respuesta": "pwm permite controlar potencia mediante variacion del ciclo de trabajo"
+  },
+  {
+    "pregunta": "que aplicaciones tiene ble",
+    "respuesta": "ble es una version de bajo consumo de bluetooth"
+  },
+  {
+    "pregunta": "define ble",
+    "respuesta": "ble es una version de bajo consumo de bluetooth"
+  },
+  {
+    "pregunta": "que es tiene ble",
+    "respuesta": "ble es una version de bajo consumo de bluetooth"
+  },
+  {
+    "pregunta": "explica tiene ble",
+    "respuesta": "ble es una version de bajo consumo de bluetooth"
+  },
+  {
+    "pregunta": "define tiene ble",
+    "respuesta": "ble es una version de bajo consumo de bluetooth"
+  },
+  {
+    "pregunta": "para que sirve tiene ble",
+    "respuesta": "ble es una version de bajo consumo de bluetooth"
+  },
+  {
+    "pregunta": "como funciona tiene ble",
+    "respuesta": "ble es una version de bajo consumo de bluetooth"
+  },
+  {
+    "pregunta": "cual es la funcion de tiene ble",
+    "respuesta": "ble es una version de bajo consumo de bluetooth"
+  },
+  {
+    "pregunta": "dame informacion sobre tiene ble",
+    "respuesta": "ble es una version de bajo consumo de bluetooth"
+  },
+  {
+    "pregunta": "que es freertos",
+    "respuesta": "freertos es el sistema operativo en tiempo real usado por esp32"
+  },
+  {
+    "pregunta": "cuando usar freertos",
+    "respuesta": "freertos es el sistema operativo en tiempo real usado por esp32"
+  },
+  {
+    "pregunta": "que es es freertos",
+    "respuesta": "freertos es el sistema operativo en tiempo real usado por esp32"
+  },
+  {
+    "pregunta": "explica es freertos",
+    "respuesta": "freertos es el sistema operativo en tiempo real usado por esp32"
+  },
+  {
+    "pregunta": "define es freertos",
+    "respuesta": "freertos es el sistema operativo en tiempo real usado por esp32"
+  },
+  {
+    "pregunta": "para que sirve es freertos",
+    "respuesta": "freertos es el sistema operativo en tiempo real usado por esp32"
+  },
+  {
+    "pregunta": "como funciona es freertos",
+    "respuesta": "freertos es el sistema operativo en tiempo real usado por esp32"
+  },
+  {
+    "pregunta": "cual es la funcion de es freertos",
+    "respuesta": "freertos es el sistema operativo en tiempo real usado por esp32"
+  },
+  {
+    "pregunta": "dame informacion sobre es freertos",
+    "respuesta": "freertos es el sistema operativo en tiempo real usado por esp32"
+  },
+  {
+    "pregunta": "explica ota",
+    "respuesta": "ota permite actualizar el firmware de forma remota"
+  },
+  {
+    "pregunta": "cual es la funcion de ota",
+    "respuesta": "ota permite actualizar el firmware de forma remota"
+  },
+  {
+    "pregunta": "que es explica ota",
+    "respuesta": "ota permite actualizar el firmware de forma remota"
+  },
+  {
+    "pregunta": "explica explica ota",
+    "respuesta": "ota permite actualizar el firmware de forma remota"
+  },
+  {
+    "pregunta": "define explica ota",
+    "respuesta": "ota permite actualizar el firmware de forma remota"
+  },
+  {
+    "pregunta": "para que sirve explica ota",
+    "respuesta": "ota permite actualizar el firmware de forma remota"
+  },
+  {
+    "pregunta": "como funciona explica ota",
+    "respuesta": "ota permite actualizar el firmware de forma remota"
+  },
+  {
+    "pregunta": "cual es la funcion de explica ota",
+    "respuesta": "ota permite actualizar el firmware de forma remota"
+  },
+  {
+    "pregunta": "dame informacion sobre explica ota",
+    "respuesta": "ota permite actualizar el firmware de forma remota"
+  },
+  {
+    "pregunta": "para que sirve littlefs",
+    "respuesta": "littlefs es un sistema de archivos para memoria flash"
+  },
+  {
+    "pregunta": "dame informacion sobre littlefs",
+    "respuesta": "littlefs es un sistema de archivos para memoria flash"
+  },
+  {
+    "pregunta": "que es sirve littlefs",
+    "respuesta": "littlefs es un sistema de archivos para memoria flash"
+  },
+  {
+    "pregunta": "explica sirve littlefs",
+    "respuesta": "littlefs es un sistema de archivos para memoria flash"
+  },
+  {
+    "pregunta": "define sirve littlefs",
+    "respuesta": "littlefs es un sistema de archivos para memoria flash"
+  },
+  {
+    "pregunta": "para que sirve sirve littlefs",
+    "respuesta": "littlefs es un sistema de archivos para memoria flash"
+  },
+  {
+    "pregunta": "como funciona sirve littlefs",
+    "respuesta": "littlefs es un sistema de archivos para memoria flash"
+  },
+  {
+    "pregunta": "cual es la funcion de sirve littlefs",
+    "respuesta": "littlefs es un sistema de archivos para memoria flash"
+  },
+  {
+    "pregunta": "dame informacion sobre sirve littlefs",
+    "respuesta": "littlefs es un sistema de archivos para memoria flash"
+  },
+  {
+    "pregunta": "como funciona esp-now",
+    "respuesta": "esp-now permite comunicaciones directas entre esp32 sin router wifi"
+  },
+  {
+    "pregunta": "que ventajas tiene esp-now",
+    "respuesta": "esp-now permite comunicaciones directas entre esp32 sin router wifi"
+  },
+  {
+    "pregunta": "que es funciona esp-now",
+    "respuesta": "esp-now permite comunicaciones directas entre esp32 sin router wifi"
+  },
+  {
+    "pregunta": "explica funciona esp-now",
+    "respuesta": "esp-now permite comunicaciones directas entre esp32 sin router wifi"
+  },
+  {
+    "pregunta": "define funciona esp-now",
+    "respuesta": "esp-now permite comunicaciones directas entre esp32 sin router wifi"
+  },
+  {
+    "pregunta": "para que sirve funciona esp-now",
+    "respuesta": "esp-now permite comunicaciones directas entre esp32 sin router wifi"
+  },
+  {
+    "pregunta": "como funciona funciona esp-now",
+    "respuesta": "esp-now permite comunicaciones directas entre esp32 sin router wifi"
+  },
+  {
+    "pregunta": "cual es la funcion de funciona esp-now",
+    "respuesta": "esp-now permite comunicaciones directas entre esp32 sin router wifi"
+  },
+  {
+    "pregunta": "dame informacion sobre funciona esp-now",
+    "respuesta": "esp-now permite comunicaciones directas entre esp32 sin router wifi"
+  },
+  {
+    "pregunta": "define usar una pantalla oled",
+    "respuesta": "las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306"
+  },
+  {
+    "pregunta": "que aplicaciones tiene usar una pantalla oled",
+    "respuesta": "las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306"
+  },
+  {
+    "pregunta": "que es pantalla oled",
+    "respuesta": "las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306"
+  },
+  {
+    "pregunta": "explica pantalla oled",
+    "respuesta": "las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306"
+  },
+  {
+    "pregunta": "define pantalla oled",
+    "respuesta": "las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306"
+  },
+  {
+    "pregunta": "para que sirve pantalla oled",
+    "respuesta": "las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306"
+  },
+  {
+    "pregunta": "como funciona pantalla oled",
+    "respuesta": "las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306"
+  },
+  {
+    "pregunta": "cual es la funcion de pantalla oled",
+    "respuesta": "las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306"
+  },
+  {
+    "pregunta": "dame informacion sobre pantalla oled",
+    "respuesta": "las pantallas oled suelen controlarse por i2c usando bibliotecas como adafruit ssd1306"
+  }
+]
